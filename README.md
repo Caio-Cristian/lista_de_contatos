@@ -56,3 +56,21 @@ Você nunca precisa usar `eject`. O conjunto de recursos curados é adequado par
 Você pode aprender mais na [documentação do Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
 Para aprender sobre React, consulte a [documentação do React](https://reactjs.org/).
+
+## Fotos e Vídeos
+
+Aqui estão algumas capturas de tela e vídeos demonstrativos do projeto:
+
+### 📸 Capturas de Tela
+
+![Tela Inicial](./midia/tela-principal.png)
+![Teste](./midia/teste1.png)
+![Adicionar](./midia/adicionando-contato.png)
+![Editar](./midia/Editar.png)
+![Salvar Edição](./midia/Salvar-edição.png)
+![Remover](./midia/remoção.png)
+![Dados Iguais](./midia/Usúarios%20com%20%20dados%20iguais.png)
+
+### 🎥 Vídeos
+
+[Veja o vídeo de demonstração](./midia/lista%20de%20contatos.mp4)
